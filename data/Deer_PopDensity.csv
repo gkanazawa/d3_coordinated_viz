@@ -1,0 +1,83 @@
+﻿id,name,code,Popdens_Mean,Popdens_Lower95,Popdens_Upper95
+1,Adams Farmland,WI-1306,62,54,72
+2,Adams Forest,WI-1371,27,22,32
+3,Ashland Forest,WI-1383,14,11,17
+4,Barron Farmland,WI-1283,21,17,24
+5,Bayfield Forest,WI-1377,16,13,21
+6,Brown Farmland,WI-1288,20,17,23
+7,Buffalo Farmland,WI-1289,30,25,35
+8,Burnett Forest,WI-1351,22,18,27
+9,Calumet Farmland,WI-1304,12,10,14
+10,Chippewa Farmland,WI-1382,21,18,25
+11,Chippewa Forest,WI-1368,22,19,26
+12,Clark Farmland,WI-1297,25,21,30
+13,Clark Forest,WI-1369,32,26,38
+14,Columbia Farmland,WI-1293,38,33,43
+15,Crawford Farmland,WI-1317,28,24,33
+16,Dane Farmland,WI-1318,17,15,19
+17,Dodge Farmland,WI-1314,18,16,21
+18,Door Farmland,WI-1284,31,25,38
+19,Douglas Forest,WI-1350,19,15,24
+20,Dunn Farmland,WI-1295,28,24,32
+21,Eau Claire Farmland,WI-1348,22,19,26
+22,Eau Claire Forest,WI-1381,29,24,34
+23,Florence Forest,WI-1355,25,20,31
+24,Fond du Lac Farmland,WI-1311,19,17,22
+25,Forest Forest,WI-1354,11,10,14
+26,Grant Farmland,WI-1319,24,20,28
+27,Green Farmland,WI-1324,18,15,21
+28,Green Lake Farmland,WI-1309,35,30,40
+29,Iowa Farmland,WI-1320,29,25,34
+30,Iron Forest,WI-1378,7,6,9
+31,Jackson Farmland,WI-1291,32,27,37
+32,Jackson Forest,WI-1362,19,15,22
+33,Jefferson Farmland,WI-1322,19,16,22
+34,Juneau Farmland,WI-1292,35,30,40
+35,Juneau Forest,WI-1363,19,16,22
+36,Kenosha Farmland,WI-1327,6,4,7
+37,Kewaunee Farmland,WI-1287,30,25,36
+38,La Crosse Farmland,WI-1349,31,27,36
+39,Lafayette Farmland,WI-1326,16,13,19
+40,Langlade Forest,WI-1366,20,17,23
+41,Lincoln Forest,WI-1365,19,16,22
+42,Madeline Island Forest,WI-1384,19,15,23
+43,Manitowoc Farmland,WI-1347,22,18,27
+44,Marathon Farmland,WI-1296,27,23,32
+45,Marinette Farmland,WI-1281,38,32,45
+46,Marinette Forest,WI-1358,30,25,35
+47,Marquette Farmland,WI-1310,50,44,58
+48,Milwaukee Farmland,WI-1334,4,3,5
+49,Monroe Farmland,WI-1308,37,32,43
+50,Monroe Forest,WI-1372,24,20,28
+51,Oconto Farmland,WI-1285,39,33,46
+52,Oconto Forest,WI-1360,20,17,23
+53,Oneida Forest,WI-1357,15,13,18
+54,Outagamie Farmland,WI-1303,22,19,25
+55,Ozaukee Farmland,WI-1332,18,15,21
+56,Pepin Farmland,WI-1299,31,27,37
+57,Pierce Farmland,WI-1286,23,19,28
+58,Polk Farmland,WI-1282,26,22,31
+59,Portage Farmland,WI-1300,29,25,34
+60,Price Forest,WI-1356,18,15,21
+61,Racine Farmland,WI-1323,7,6,9
+62,Richland Farmland,WI-1316,46,40,53
+63,Rock Farmland,WI-1345,12,10,14
+64,Rusk Forest,WI-1359,25,21,29
+65,Sauk Farmland,WI-1313,36,31,41
+66,Sawyer Forest,WI-1353,14,12,17
+67,Shawano Farmland,WI-1298,41,35,48
+68,Sheboygan Farmland,WI-1346,19,16,23
+69,St. Croix Farmland,WI-1294,18,15,21
+70,Taylor Forest,WI-1367,26,22,31
+71,Trempealeau Farmland,WI-1290,31,27,36
+72,Vernon Farmland,WI-1312,37,32,43
+73,Vilas Forest,WI-1379,17,14,21
+74,Walworth Farmland,WI-1325,10,8,12
+75,Washburn Forest,WI-1352,20,17,24
+76,Washington Farmland,WI-1315,21,18,25
+77,Waukesha Farmland,WI-1321,19,16,22
+78,Waupaca Farmland,WI-1301,46,40,53
+79,Waushara Farmland,WI-1307,35,30,40
+80,Winnebago Farmland,WI-1305,13,12,16
+81,Wood Farmland,WI-1302,27,23,32
+82,Wood Forest,WI-1370,21,17,24
