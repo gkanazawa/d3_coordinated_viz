@@ -3,17 +3,17 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-		<title>G's Deer Map</title>
+		<title>WI Deer Population 2019</title>
 
 		<!--external stylesheet-->
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 
 	<body>
-    <h2 id="title">Deer Population of WI, 2019</h2>
+    <h2 id="title">WI Deer Population 2019</h2>
+	
     <div id="description">
-      This map displays white tail deer population data in Wisconsin from a post-hunt survey taken in 2019.
-				The data is enumerated by "Deer Zone" - essentially Wisconsin counties divided into 'Farmland' or 'Forest'.
+      This map displays white tail deer population data in Wisconsin from a post-hunt survey taken in 2019. The data is enumerated by "Deer Zone" - Wisconsin counties divided into Farmland or Forest subregions. Use the dropdown menu to toggle between lower 95% credible interval, upper 95% credible interval, and mean population estimates.
     </div>
 
 		<hr>
@@ -21,9 +21,11 @@
 
 		</div>
 
+	<h5>data courtesy Wisconsin Dept of Natural Resources</h3>
+
     <!--libraries-->
 		<script src="https://d3js.org/d3.v6.min.js"></script>
-		<!-- <script type="text/javascript" src="lib/d3.js"></script> -->
+		<script type="text/javascript" src="lib/d3.js"></script>
 		<script type="text/javascript" src="lib/d3-selection-multi.min.js"></script>
 		<script type="text/javascript" src="lib/topojson.min.js"></script>
 		<script type="text/javascript" src="https://unpkg.com/simple-statistics@7.7.0/dist/simple-statistics.min.js"></script>
